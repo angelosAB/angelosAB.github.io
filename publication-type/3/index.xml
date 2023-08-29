@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Angelos Alexopoulos</title>
-    <link>https://username.github.io/publication-type/3/</link>
-      <atom:link href="https://username.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://angelosAB.github.io/publication-type/3/</link>
+      <atom:link href="https://angelosAB.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://username.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://angelosAB.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://username.github.io/publication-type/3/</link>
+      <link>https://angelosAB.github.io/publication-type/3/</link>
     </image>
     
     <item>
       <title>A Bayesian multivariate factor analysis model for causal inference using time series observational data on mixed outcomes</title>
-      <link>https://username.github.io/publication/causal_ltp/</link>
+      <link>https://angelosAB.github.io/publication/causal_ltp/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://username.github.io/publication/causal_ltp/</guid>
+      <guid>https://angelosAB.github.io/publication/causal_ltp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks and machine learning to detect Value Added Tax fraud</title>
-      <link>https://username.github.io/publication/vat/</link>
+      <link>https://angelosAB.github.io/publication/vat/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://username.github.io/publication/vat/</guid>
+      <guid>https://angelosAB.github.io/publication/vat/</guid>
       <description></description>
     </item>
     

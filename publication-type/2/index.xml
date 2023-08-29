@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Angelos Alexopoulos</title>
-    <link>https://username.github.io/publication-type/2/</link>
-      <atom:link href="https://username.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://angelosAB.github.io/publication-type/2/</link>
+      <atom:link href="https://angelosAB.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://username.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://angelosAB.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://username.github.io/publication-type/2/</link>
+      <link>https://angelosAB.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Variance reduction for Metropolis-Hastings samplers</title>
-      <link>https://username.github.io/publication/variance_reduction/</link>
+      <link>https://angelosAB.github.io/publication/variance_reduction/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://username.github.io/publication/variance_reduction/</guid>
+      <guid>https://angelosAB.github.io/publication/variance_reduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A stochastic dynamical model for epidemic nowcasting and forecasting</title>
-      <link>https://username.github.io/publication/epidemics_forecasting/</link>
+      <link>https://angelosAB.github.io/publication/epidemics_forecasting/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://username.github.io/publication/epidemics_forecasting/</guid>
+      <guid>https://angelosAB.github.io/publication/epidemics_forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A machine learning approach to construct quarterly data on intangible investment for Eurozone</title>
-      <link>https://username.github.io/publication/intangible/</link>
+      <link>https://angelosAB.github.io/publication/intangible/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://username.github.io/publication/intangible/</guid>
+      <guid>https://angelosAB.github.io/publication/intangible/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian prediction of jumps in large panels of time series data</title>
-      <link>https://username.github.io/publication/jumps/</link>
+      <link>https://angelosAB.github.io/publication/jumps/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://username.github.io/publication/jumps/</guid>
+      <guid>https://angelosAB.github.io/publication/jumps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Variable Selection for Gaussian copula regression models</title>
-      <link>https://username.github.io/publication/bvs_copula/</link>
+      <link>https://angelosAB.github.io/publication/bvs_copula/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://username.github.io/publication/bvs_copula/</guid>
+      <guid>https://angelosAB.github.io/publication/bvs_copula/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian forecasting of mortality rates by using latent Gaussian models</title>
-      <link>https://username.github.io/publication/mortality/</link>
+      <link>https://angelosAB.github.io/publication/mortality/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://username.github.io/publication/mortality/</guid>
+      <guid>https://angelosAB.github.io/publication/mortality/</guid>
       <description></description>
     </item>
     
