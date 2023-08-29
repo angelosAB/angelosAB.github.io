@@ -33,14 +33,6 @@
     </item>
     
     <item>
-      <title>Variance reduction for Metropolis-Hastings samplers</title>
-      <link>https://angelosAB.github.io/publication/variance_reduction/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://angelosAB.github.io/publication/variance_reduction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A stochastic dynamical model for epidemic nowcasting and forecasting</title>
       <link>https://angelosAB.github.io/publication/epidemics_forecasting/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
@@ -69,6 +61,14 @@
       <link>https://angelosAB.github.io/publication/vat/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://angelosAB.github.io/publication/vat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance reduction for Metropolis-Hastings samplers</title>
+      <link>https://angelosAB.github.io/publication/variance_reduction/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://angelosAB.github.io/publication/variance_reduction/</guid>
       <description></description>
     </item>
     
